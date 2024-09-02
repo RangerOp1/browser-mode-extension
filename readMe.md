@@ -5,6 +5,12 @@ StartSmart is a powerful Chrome browser extension designed to streamline your br
 
 **Key Features:**
 
+
+
+
+
+
+
 - **Multi-Mode Functionality**: StartSmart operates in various modes, allowing you to customize your startup experience based on different needs. Whether it's Work Mode, Personal Mode, or any custom mode you create, your preferred URLs are always just a click away.
 - **Easy URL Management**: Add, edit, and organize your startup URLs effortlessly. StartSmart provides a user-friendly interface that makes it simple to keep your essential websites at your fingertips.
 - **Quick Mode Switching**: Seamlessly switch between different modes to suit your current activity. With StartSmart, you can transition from work to leisure without missing a beat.
